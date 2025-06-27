@@ -80,7 +80,6 @@
         "setMinSize": false,
         "setMinimizable": false,
         "setPosition": false,
-        "setProgressBar": false,
         "setResizable": true,
         "setSize": true,
         "setSkipTaskbar": false,
